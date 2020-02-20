@@ -6,7 +6,7 @@ Firmware for T3V3
 ## Control gimbal in the follow mode
 - Gimbal allows control in follow mode by using remote  control or gSDK
 
-## Control gimbal mode with LightBridge 2 with DJI's Remote Control.
+## Control gimbal with LightBridge 2 with DJI's Remote Control.
 - In Single mode
   + C1 button switch mode (LOCK -> FOLLOW -> MAPPING)
   + C2 button switch control between TILT and PAN axis.
@@ -16,7 +16,7 @@ Firmware for T3V3
   + C2 button press hold > 2 seconds. Turn off Gimbal.
 - Refer to: https://www.youtube.com/watch?v=p9fpLAZofRc&t=7s
 
-## Control gimbal mode with Herelink with Pixhawk Flight Controler.
+## Control gimbal with Herelink with Pixhawk Flight Controller.
 Use S.Bus signal output from the Herelink for simultaneous control of Autopilot, Gimbal and camera as well.
 - In Single mode
   + Scroll wheel controls the TILT or PAN axis (Channel 10)
